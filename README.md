@@ -12,5 +12,5 @@ The linting is handled by a custom GitHub Action [`pylinter`](https://github.com
 
 ## Contents
 * `.py` simplistic files to lint with the GitHub Action `pylinter` and test with `pytest`
-* `tests` directory which contains the various `pytest` tests to run
+* `tests/` directory which contains the various `pytest` tests to run
 * `requirements.txt` which contains the necessary packages to run the CI
