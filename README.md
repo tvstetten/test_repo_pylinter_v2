@@ -1,7 +1,7 @@
 # test_repo_pylinter_v2
 
 ## Description
-This repo serves as a reference for the YouTube video found here https://www.youtube.com/watch?v=rY-igT2N8zU&list=PL0dOL8Z7pG3J6t1pqRQiNarBGY-ZnIJcq&index=2.
+This repo serves as a reference for the following [YouTube video](https://www.youtube.com/watch?v=rY-igT2N8zU&list=PL0dOL8Z7pG3J6t1pqRQiNarBGY-ZnIJcq&index=2).
 
 Demonstration of how to incorporate continuous integration (CI) into a Python project using:
 
