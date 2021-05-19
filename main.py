@@ -3,6 +3,7 @@ import os
 
 
 def add(a, b) -> int:
+    # OK
     return math.floor(a + b)
 
 
